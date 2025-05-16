@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p align="center">
 <img width="60" height="68" alt="EverShop Logo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/logo-green.png"/>
@@ -114,3 +115,7 @@ Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Co
 ## License
 
 [GPL-3.0 License](https://github.com/evershopcommerce/evershop/blob/main/LICENSE)
+=======
+# Evershop---Vulnerabilities-Assessed
+The submission for software security module
+>>>>>>> 4019855d2870b9a0e7ab15b1ee0a4325f77ee079
